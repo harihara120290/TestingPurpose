@@ -1,0 +1,6 @@
+{
+    "view-in-browser.customBrowser": "chrome",
+    "typescript.tsserver.watchOptions": {
+    
+    }
+}

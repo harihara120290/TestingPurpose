@@ -1,0 +1,14 @@
+E:\FULLSTACK WEBSHOP\Project\ConsoleAppForStringManipulation\ConsoleAppForStringManipulation\bin\Release\netcoreapp2.1\osx.10.12-x64\libhostpolicy.dylib
+E:\FULLSTACK WEBSHOP\Project\ConsoleAppForStringManipulation\ConsoleAppForStringManipulation\bin\Release\netcoreapp2.1\osx.10.12-x64\libhostfxr.dylib
+E:\FULLSTACK WEBSHOP\Project\ConsoleAppForStringManipulation\ConsoleAppForStringManipulation\bin\Release\netcoreapp2.1\osx.10.12-x64\ConsoleAppForStringManipulation
+E:\FULLSTACK WEBSHOP\Project\ConsoleAppForStringManipulation\ConsoleAppForStringManipulation\bin\Release\netcoreapp2.1\osx.10.12-x64\ConsoleAppForStringManipulation.deps.json
+E:\FULLSTACK WEBSHOP\Project\ConsoleAppForStringManipulation\ConsoleAppForStringManipulation\bin\Release\netcoreapp2.1\osx.10.12-x64\ConsoleAppForStringManipulation.runtimeconfig.json
+E:\FULLSTACK WEBSHOP\Project\ConsoleAppForStringManipulation\ConsoleAppForStringManipulation\bin\Release\netcoreapp2.1\osx.10.12-x64\ConsoleAppForStringManipulation.runtimeconfig.dev.json
+E:\FULLSTACK WEBSHOP\Project\ConsoleAppForStringManipulation\ConsoleAppForStringManipulation\bin\Release\netcoreapp2.1\osx.10.12-x64\ConsoleAppForStringManipulation.dll
+E:\FULLSTACK WEBSHOP\Project\ConsoleAppForStringManipulation\ConsoleAppForStringManipulation\bin\Release\netcoreapp2.1\osx.10.12-x64\ConsoleAppForStringManipulation.pdb
+E:\FULLSTACK WEBSHOP\Project\ConsoleAppForStringManipulation\ConsoleAppForStringManipulation\obj\Release\netcoreapp2.1\osx.10.12-x64\ConsoleAppForStringManipulation.csprojAssemblyReference.cache
+E:\FULLSTACK WEBSHOP\Project\ConsoleAppForStringManipulation\ConsoleAppForStringManipulation\obj\Release\netcoreapp2.1\osx.10.12-x64\ConsoleAppForStringManipulation.csproj.CoreCompileInputs.cache
+E:\FULLSTACK WEBSHOP\Project\ConsoleAppForStringManipulation\ConsoleAppForStringManipulation\obj\Release\netcoreapp2.1\osx.10.12-x64\ConsoleAppForStringManipulation.AssemblyInfoInputs.cache
+E:\FULLSTACK WEBSHOP\Project\ConsoleAppForStringManipulation\ConsoleAppForStringManipulation\obj\Release\netcoreapp2.1\osx.10.12-x64\ConsoleAppForStringManipulation.AssemblyInfo.cs
+E:\FULLSTACK WEBSHOP\Project\ConsoleAppForStringManipulation\ConsoleAppForStringManipulation\obj\Release\netcoreapp2.1\osx.10.12-x64\ConsoleAppForStringManipulation.dll
+E:\FULLSTACK WEBSHOP\Project\ConsoleAppForStringManipulation\ConsoleAppForStringManipulation\obj\Release\netcoreapp2.1\osx.10.12-x64\ConsoleAppForStringManipulation.pdb
